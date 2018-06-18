@@ -1,0 +1,2 @@
+# potholes-patches-cracks
+Project related to the Final Paper "Processamento de Imagem e Aprendizagem de Máquina para Classificação de Anomalias em Vias Públicas" (Image Processing and Machine Learning for Classification of Anomalies in Public Roads). Paper presented to the Undergraduate Program in Computing Engineering of the Computing Center of the Federal University of Pernambuco as a partial requirement to obtain the degree of Computer Engineer.
